@@ -1,0 +1,6 @@
+nbproject/
+*.d
+*.o
+libspill.so
+spill
+
